@@ -22,19 +22,19 @@ I'm Eric Tierre, a passionate Software Developer with a degree in Computer Scien
 
 - **Programming Languages:** 
     - Python 🐍
-    - C
-    - C++
-    - JavaScript (ES6+)
+    - C 🔧
+    - C++ 🛠️
+    - JavaScript (ES6+) 🟨
   
 - **Web Technologies:**
-    - HTML5 
-    - CSS3 (SASS)
-    - React
+    - HTML5 🌐
+    - CSS3 🎨
+    - React ⚛️
     - Flask
   
 - **Tools and Technologies:**
     - Docker 🐳
-    - Git
+    - Git 📦
     
 - **Others:** 
     - Scrum

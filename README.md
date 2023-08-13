@@ -4,7 +4,7 @@
 
 ### Hi there! 👋
 
-I'm Eric Tierre, a passionate Software Developer with a degree in Computer Science. Throughout my career, I've had the privilege to work on diverse projects and with different technologies. From crafting intricate algorithms in C++ to building user-friendly web applications in React, I've been there!
+I'm Eric, a passionate Software Developer with a degree in Computer Science. Throughout my career, I've had the privilege to work on diverse projects and with different technologies. From crafting intricate algorithms in C++ to building user-friendly web applications in React, I've been there!
 
 ---
 
